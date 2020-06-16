@@ -6,3 +6,6 @@ the feature branch saved the changes as commits
 now a pull request is created
 The feature branch in now merged into the master branch after approval
 The changes is saved in the changes history.
+
+
+Changes done to check if the job is triggered in jenkins automatically
