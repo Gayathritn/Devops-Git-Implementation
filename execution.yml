@@ -1,7 +1,7 @@
 ---
 execuction:
 - concurrency: 50
-hold-for:3m
+hold-for: 3m
 ramp-up: 2m
 
 scenario: Choose Flight
@@ -10,7 +10,7 @@ Choose Flight:
 requests:
 -label: blazedemo.com/
 method: GET
-url:http:blazedemo.com/reserve.php
+url: http://blazedemo.com/reserve.php
 body:
 fromPort: Paris
 toPort: Buenos Aires
