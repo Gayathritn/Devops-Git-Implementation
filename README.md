@@ -9,3 +9,5 @@ The changes is saved in the changes history.
 
 
 Changes done to check if the job is triggered in jenkins automatically
+
+added payload url in webhook successfully and now buld should gete trigerred in jenkinsautomatically when commit is made.
